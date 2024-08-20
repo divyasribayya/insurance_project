@@ -6,6 +6,7 @@ const Banner = () => {
       <div className="content">
         <h1>Your Banner Title</h1>
         <p>Your banner description goes here.</p>
+        <h2>this change made by santhosh</h2>
       </div>
     </div>
   );
